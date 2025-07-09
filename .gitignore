@@ -1,0 +1,8 @@
+# Ignorar archivos CSV específicos
+IMDb_movies.csv
+IMDb_ratings.csv
+netflix_movies_detailed_up_to_2025.csv
+netflix_tv_shows_detailed_up_to_2025.csv
+
+# Ignorar entorno virtual de Python
+venv/
