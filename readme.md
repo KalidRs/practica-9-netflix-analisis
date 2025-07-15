@@ -10,7 +10,7 @@ Este proyecto realiza un análisis exploratorio de un dataset combinado de Netfl
   - Heatmap por mes y año de adición
   - Duración de películas
   - Conteo por país
-- 🧹 Limpieza y conversión de datos relevantes (`duration`, `date_added`, etc.).
+- 🧹 Limpieza y conversión de datos relevantes
 - 📁 Unificación de archivos detallados (`movies` + `series`) en un solo dataset.
 
 
@@ -26,4 +26,4 @@ Este proyecto realiza un análisis exploratorio de un dataset combinado de Netfl
 
 1. Clona el repositorio
 2. Abre el notebook `.ipynb` en Jupyter
-3. Ejecuta las celdas una por una
+3. Ejecuta
