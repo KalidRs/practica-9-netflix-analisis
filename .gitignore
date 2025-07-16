@@ -4,6 +4,8 @@ IMDb_ratings.csv
 netflix_movies_detailed_up_to_2025.csv
 netflix_tv_shows_detailed_up_to_2025.csv
 cosine_sim.dat
+cosine_sim_2025.dat
+cosine_sim_full_2025.dat
 
 # Ignorar entorno virtual de Python
 venv/
